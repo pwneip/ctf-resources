@@ -7,4 +7,11 @@
  - [wechall](https://www.wechall.net/)
 
 ### Lots more
-  - 
+ - [Hack.me](https://hack.me/)
+ - [Defend the Web](https://defendtheweb.net/)
+ - [SmashTheStack](http://smashthestack.org/)
+ - [Avatao](https://avatao.com/)
+ - [Root Me](https://www.root-me.org/)
+ - [ctf365](https://ctf365.com/)
+ - [Newbie Contest](https://www.newbiecontest.org/)
+ - [Hacker.org](http://www.hacker.org/)
