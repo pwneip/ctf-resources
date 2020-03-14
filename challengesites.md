@@ -7,6 +7,7 @@
  - [wechall](https://www.wechall.net/)
  - [underthewire](https://underthewire.tech/wargames.htm)
  - [Hacker101](https://www.hacker101.com/)
+ - [Web Security Academy](https://portswigger.net/web-security)
 
 ### Lots more
  - [Hack.me](https://hack.me/)
