@@ -13,3 +13,5 @@ If you want to contribute, just create an issue or a pull request and we will ge
 ### [Videos](videos.md)
 ### [Books](books.md)
 ### [Tools](tools.md)
+### [Reverse Engineering](reverse_engineering.md)
+### [Web](web.md)
